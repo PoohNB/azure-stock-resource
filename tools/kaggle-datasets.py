@@ -1,6 +1,8 @@
 import kagglehub
 
-# Download latest version
-path = kagglehub.dataset_download("gpreda/bbc-news")
+custom_path = "./datasets"
 
-print("Path to dataset files:", path)
+path = kagglehub.dataset_download(
+    "equinxx/stock-tweets-for-sentiment-analysis-and-prediction",
+
+)
