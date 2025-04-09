@@ -1,0 +1,17 @@
+[
+    {
+        "p_rel_url" : "PoohNB/azure-stock-resource/refs/heads/main/datasets/bbc_tesla.csv?token=GHSAT0AAAAAADATAFUB2RRW4NAFPKZ6KASMZ7WFNGQ",
+        "p_folder" : "bbc_tesla",
+        "p_file" : "bbc_tesla.parquet"
+    },
+    {
+        "p_rel_url" : "PoohNB/azure-stock-resource/refs/heads/main/datasets/tesla_reddit_sentiment.csv?token=GHSAT0AAAAAADATAFUAUYZPCUCTY3ZTD2Z4Z7WHGFQ",
+        "p_folder" : "tesla_reddit_sentiment",
+        "p_file" : "tesla_reddit_sentiment.parquet"
+    },
+    {
+        "p_rel_url" : "PoohNB/azure-stock-resource/refs/heads/main/datasets/stock_tweets.csv?token=GHSAT0AAAAAADATAFUB2RRW4NAFPKZ6KASMZ7WFNGQ",
+        "p_folder" : "stock_tweets",
+        "p_file" : "stock_tweets.parquet"
+    }
+]
