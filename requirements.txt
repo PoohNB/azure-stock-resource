@@ -1,0 +1,6 @@
+praw
+pandas
+textblob
+requests
+kagglehub
+ipykernel
